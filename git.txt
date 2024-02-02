@@ -1,0 +1,1 @@
+The class on git aims at explaining the essence of verion control while writing codes as a sofware engineer or coder...Basically git is a software used as a version control to keep track of changes made to our code so we can always refer back to them sometime later

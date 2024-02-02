@@ -1,0 +1,1 @@
+This class basically explains the protocal which is used to commuunicated between web browsers and web servers; the http... The secure variant being the https which stands for hyper text transfer protocol secure

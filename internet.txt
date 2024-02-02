@@ -1,0 +1,1 @@
+The class on internet just explains basically what the internet is the collection computer network...It aims to show how different computers communicate on the internet over some protocols such as the TCP/IP, UDP, HTTPs, SMTP, FTP etc... It also sheds light on the client browser model
